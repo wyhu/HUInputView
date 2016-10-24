@@ -4,6 +4,7 @@
 
 
 ###主要功能：自定义数字键盘，支持随机数字键盘。长按删除功能。
+![image](https://github.com/wyhu/HUInputView/blob/master/NumInput.gif)
 
 ####技术点：
 
